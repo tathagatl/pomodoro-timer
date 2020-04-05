@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Pomodoro Timer",
+    "slug": "pomodoro",
+    "platforms": [
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/pomodoro.png",
+    "splash": {
+      "image": "./assets/pomodoro-splash.png",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
